@@ -1,4 +1,4 @@
-### Tools I use in my regular Dev works. Basically My choices for dev environment
+### Tools I use in my regular dev works. Basically my choices for dev environment
 
 # Code Editor
 VS Code
