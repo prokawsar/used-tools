@@ -2,6 +2,13 @@
 
 # Code Editor
 VS Code
+  
+  Extensions
+   - Material Icon Theme
+   - PHP Intelephense
+   - GitLens
+   - Cobalt2 Theme
+   - Docker
 
 # Font
 Victor Mono, Fira Code
